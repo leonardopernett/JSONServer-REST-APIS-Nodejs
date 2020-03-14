@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 4000,
+      "description": "hp",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "monitor",
+      "price": 3000,
+      "description": "hp",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "mouse",
+      "price": 1000,
+      "description": "mousepad",
+      "categoryId": 2
+    },
+    {
+      "name": "CPU",
+      "price": "2000",
+      "description": "unidad de procesamiento",
+      "categoryId": 1,
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "computer",
+      "description": "computer, laptop"
+    },
+    {
+      "id": 2,
+      "name": "accessories",
+      "description": "mouse, teclado"
+    }
+  ]
+}
